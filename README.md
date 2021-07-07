@@ -3,7 +3,7 @@ Minikiosk is a Student Management System Project in Django, developed using Pyth
 
 A Django Student Management System has 3 User Interfaces, The Admin Side, that can see overall summary charts of students performance, staffs performances, courses, subjects, leave, etc. Staff/Teacher Side, can see the overall summary charts related to their students, their subjects, leave status, etc. and Student Side, that can see the overall summary charts related to their attendance, their subjects, leave status, etc.
 
-# Features Of This Student Management System Project In Django
+# Features Of this Minikiosk In Django
 ### A. Admin Users Can
 1.See Overall Summary Charts of Students Performance, Staffs Performances, Courses, Subjects, Leave, etc. <br />
 2.Manage Staffs (Add, Update and Delete) <br />
@@ -29,7 +29,7 @@ A Django Student Management System has 3 User Interfaces, The Admin Side, that c
 4.Apply for Leave <br />
 5.Send Feedback to HOD <br />
 
-# In This Student Management System Project In Django Consist Of The Following Method:
+# In this Minikiosk In Django Consist Of The Following Method:
 
 * **student_management_app** – In this method which is the management system of the students and the staff.
 * **student_management_system** – In this method which is the main method of the system.
